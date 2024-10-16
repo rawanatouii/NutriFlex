@@ -1,6 +1,9 @@
 # NutriFlex
 
-![Logo NutriFlex](./logo.png "logo")
+<!-- ![Logo NutriFlex](./logo.png "logo") -->
+<div align="center">
+    <img src="./logo.png" alt="Logo NutriFlex" title="logo" />
+</div>
 
 Il était une fois, au cœur d'une petite ville située dans le Tarn, un groupe de personnes animées par la volonté de créer un site dédié à la nutrition et à la forme physique. Leur vision était simple : offrir un hub, où chacun pourrait trouver des solutions adaptées à son mode de vie actif. Un jour, alors qu'ils réfléchissent à créer une entreprise, ils ont réalisé que chaque aspect de leur mission impliquait la flexibilité et l'adaptabilité. 
 La flexibilité des choix nutritionnels, la flexibilité des routines de fitness, et surtout, la flexibilité nécessaire pour atteindre les objectifs de chacun.
