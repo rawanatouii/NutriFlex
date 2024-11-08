@@ -2,7 +2,7 @@
 
 <!-- ![Logo NutriFlex](./logo.png "logo") -->
 <div align="center">
-    <img src="./src/images/logo_nutriflex.png" alt="Logo NutriFlex" title="logo" style="width: 3em; height: 3em;" />
+    <img src="./src/images/logo_nutriflex.png" alt="Logo NutriFlex" title="logo" style="width: 10em; height: 10em;" />
 </div>
 
 
