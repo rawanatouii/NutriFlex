@@ -5,6 +5,7 @@
     <img src="./src/images/logo_nutriflex.png" alt="Logo NutriFlex" title="logo" style="width: 12em; height: 10em;" />
 </div>
 
+<br>
 
 Nutri Flex propose des protéines en poudre de qualité, des compléments alimentaires et des barres protéinés conçus pour soutenir les débutants ou athlètes dans leurs objectifs. 
 
