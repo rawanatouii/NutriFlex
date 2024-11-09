@@ -1,0 +1,21 @@
+/* src/components/HeroBanner/HeroBanner.module.css */
+.heroBanner {
+    background-image: url('../../../public/fb70d7c8-a718-4748-a0f3-ba1e13468e57.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    position: relative;
+  }
+  
+  .content {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+  }
+  
